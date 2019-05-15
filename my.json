@@ -1,14 +1,15 @@
 {
     "songs":[
-    "fake love": {
+   {
       "songUrl": "https://fullstackccu.github.io/homeworks/hw4/songs/TCM011.mp3",
-      "title": "fake love",
+      "name": "fake love",
       "artist": "BTS"
     },
-    "fire": {
+   {
         "songUrl": "https://fullstackccu.github.io/homeworks/hw4/songs/TCM011.mp3",
-        "title": "fire",
+        "name": "fire",
         "artist": "BTS"
       }
+
     ]
   }
