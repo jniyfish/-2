@@ -1,15 +1,14 @@
 {
     "songs":[
    {
-      "songUrl": "https://fullstackccu.github.io/homeworks/hw4/songs/TCM011.mp3",
-      "name": "fake love",
-      "artist": "BTS"
+      "name": "The Emancipation Of Mimi",
+      "year": 2005,
+      "url": "https://i.scdn.co/image/dca82bd9c1ccae90b09972027a408068f7a4d700"
     },
-   {
-        "songUrl": "https://fullstackccu.github.io/homeworks/hw4/songs/TCM011.mp3",
-        "name": "fire",
-        "artist": "BTS"
-      }
-
+    {
+      "name": "Daydream",
+      "year": 1995,
+      "url": "https://i.scdn.co/image/0638f0ddf70003cb94b43aa5e4004d85da94f99c"
+    }
     ]
   }
